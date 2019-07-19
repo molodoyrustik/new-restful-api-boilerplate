@@ -1,0 +1,31 @@
+{
+  "name": "babel-starter-kit",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "",
+  "repository": "",
+  "author": "",
+  "contributors": [],
+  "keywords": [],
+  "main": "index.js",
+  "jsnext:main": "index.es6.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "bluebird": "^3.5.5",
+    "body-parser": "^1.19.0",
+    "bunyan": "^1.8.12",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-async-router": "^0.1.15",
+    "express-jwt": "^5.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "left-pad": "^1.3.0",
+    "lodash": "^4.17.14",
+    "mongoose": "^5.6.4",
+    "nodemailer": "^6.3.0",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "uniqid": "^5.0.3",
+    "uuid": "^3.3.2"
+  }
+}
